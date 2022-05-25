@@ -89,6 +89,10 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
 
+<img width="1347" alt="Screen Shot 2022-05-24 at 8 56 22 PM" src="https://user-images.githubusercontent.com/95188381/170157388-f477a2cd-9fbe-4ac1-a077-9b39727cd821.png">
+
+<img width="1331" alt="Screen Shot 2022-05-24 at 9 08 15 PM" src="https://user-images.githubusercontent.com/95188381/170157392-430a1345-4fa9-4c7b-8169-2ee96ad00a90.png">
+
 ---
 ## Submission
 
